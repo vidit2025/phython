@@ -1,0 +1,2 @@
+ File in write mode:-Hi! I am vidit. I am 13 years old
+ File in append mode:-Hi! Iam vidit.Iam 13 years old.
